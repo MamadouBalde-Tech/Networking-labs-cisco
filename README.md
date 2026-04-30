@@ -73,7 +73,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured subinterfaces for inter-VLAN routing
 - Enabled communication between VLANs using a router
 
-![PS07 Router-on-a-Stick](ps07.png)
+![PS07 Router-on-a-Stick](Stick.png)
 
 ---
 
@@ -81,7 +81,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured Layer 3 switch for inter-VLAN routing
 - Improved network efficiency and scalability
 
-![PS08 Layer 3 Switching](ps08.png)
+![PS08 Layer 3 Switching](Switch.png)
 
 ---
 
