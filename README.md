@@ -28,7 +28,8 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured switch ports for network connectivity
 - Tested communication between devices using ping
 
-![PS02 Switch Connectivity](ps02.png)
+![PS02 Switch Connectivity](Conn.png)
+![PS02 Switch Connectivity](Conn1.png)
 
 ---
 
