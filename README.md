@@ -12,6 +12,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Verified connectivity between hosts using basic testing
 
 ![PS00 Network Diagram](Diag1.png)
+![PS00 Network Diagram](Diag.png)
 
 ---
 
