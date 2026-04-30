@@ -64,8 +64,8 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Built a complete network using routers and switches
 - Verified communication across multiple devices
 
-![PS06 Network Build](ps06.png)
-![PS06 Network Build](ps06.png)
+![PS06 Network Build](Build.png)
+
 
 ---
 
