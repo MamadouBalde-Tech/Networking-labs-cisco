@@ -29,7 +29,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Tested communication between devices using ping
 
 
-![PS02 Switch Connectivity](Conn1.png)
+![PS02 Switch Connectivity](Conn.png)
 
 ---
 
@@ -55,7 +55,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Created VLANs and assigned switch ports
 - Configured trunk links for inter-switch communication
 
-![PS05 VLAN](Vlan1.png)
+![PS05 VLAN](Vlan.png)
 
 ---
 
