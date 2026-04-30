@@ -20,7 +20,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Used Cisco IOS show commands to inspect device configurations
 - Verified interface status and network information
 
-![PS01 Show Commands](ps01.png)
+![PS01 Show Commands](Com.png)
 
 ---
 
