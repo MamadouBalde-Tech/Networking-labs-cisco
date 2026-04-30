@@ -37,7 +37,8 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured router interfaces with IP addressing
 - Verified routing between connected networks
 
-![PS03 Router Settings](ps03.png)
+![PS03 Router Settings](Router.png)
+![PS03 Router Settings](Router1.png)
 
 ---
 
