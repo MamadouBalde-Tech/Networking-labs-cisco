@@ -38,7 +38,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Verified routing between connected networks
 
 
-![PS03 Router Settings](Router.png)
+![PS03 Router Settings](Router1.png)
 
 ---
 
@@ -47,7 +47,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured authentication and remote login settings
 
 
-![PS04 SSH](Ssh.png)
+![PS04 SSH](Ssh1.png)
 
 ---
 
