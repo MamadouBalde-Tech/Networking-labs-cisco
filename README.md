@@ -12,7 +12,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Verified connectivity between hosts using basic testing
 
 ![PS00 Network Diagram](Diag1.png)
-![PS00 Network Diagram](Diag.png)
+
 
 ---
 
@@ -28,7 +28,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured switch ports for network connectivity
 - Tested communication between devices using ping
 
-![PS02 Switch Connectivity](Conn.png)
+
 ![PS02 Switch Connectivity](Conn1.png)
 
 ---
@@ -37,7 +37,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Configured router interfaces with IP addressing
 - Verified routing between connected networks
 
-![PS03 Router Settings](Router1.png)
+
 ![PS03 Router Settings](Router.png)
 
 ---
@@ -46,7 +46,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Enabled SSH for secure remote access to network devices
 - Configured authentication and remote login settings
 
-![PS04 SSH](Ssh1.png)
+
 ![PS04 SSH](Ssh.png)
 
 ---
@@ -55,7 +55,6 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Created VLANs and assigned switch ports
 - Configured trunk links for inter-switch communication
 
-![PS05 VLAN](Vlan.png)
 ![PS05 VLAN](Vlan1.png)
 
 ---
@@ -77,11 +76,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 
 ---
 
-### PS08 – Layer 3 Switching
-- Configured Layer 3 switch for inter-VLAN routing
-- Improved network efficiency and scalability
 
-![PS08 Layer 3 Switching](Switch.png)
 
 ---
 
