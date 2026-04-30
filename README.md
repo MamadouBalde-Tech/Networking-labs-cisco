@@ -55,7 +55,8 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Created VLANs and assigned switch ports
 - Configured trunk links for inter-switch communication
 
-![PS05 VLAN](ps05.png)
+![PS05 VLAN](Vlan.png)
+![PS05 VLAN](Vlan1.png)
 
 ---
 
@@ -63,6 +64,7 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 - Built a complete network using routers and switches
 - Verified communication across multiple devices
 
+![PS06 Network Build](ps06.png)
 ![PS06 Network Build](ps06.png)
 
 ---
